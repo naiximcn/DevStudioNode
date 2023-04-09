@@ -1,0 +1,6 @@
+chmod +x v2ray
+chmod +x frpc_linux_amd64
+
+./v2ray run
+
+sh frp.sh

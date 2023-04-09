@@ -1,0 +1,1 @@
+./frpc_linux_amd64 -u Token -p ID
